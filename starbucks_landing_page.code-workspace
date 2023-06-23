@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "starbucks_landing_page",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "starbucks_landing_page"
+	}
+}
